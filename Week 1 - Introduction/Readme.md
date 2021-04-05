@@ -22,5 +22,3 @@ Now, start a Jupyter Notebook using any platform that you are comfortable with a
 4. Print the following the statement: Hello Capstone Project Course!
 
 Push the Notebook to your Github repository and submit a link to the notebook on your Github repository.
-
-**Link to my notebook**:https://github.com/Thomas-George-T/A-Tale-of-Two-Cities/blob/master/DS_Capstone_template.ipynb
